@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg](https://www.google.com/imgres?q=php%20logo&imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F185%2F655%2Fpng-transparent-logo-php-computer-icons-symbol-miscellaneous-emblem-text.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dphp%2BLogo&docid=PsZqB9pDHPuTeM&tbnid=roCN7CziwHrO9M&vet=12ahUKEwikqvfR5Z2OAxVf_rsIHaYMHbQQM3oECF0QAA..i&w=920&h=500&hcb=2&ved=2ahUKEwikqvfR5Z2OAxVf_rsIHaYMHbQQM3oECF0QAA)" height="30" alt="bootstrap logo"  />
+
   
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
