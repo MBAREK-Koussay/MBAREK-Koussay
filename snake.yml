@@ -1,5 +1,7 @@
 name: generate-snake-game-from-github-contribution-grid
 
+
+
 on:
   schedule:
     - cron: "0 */6 * * *"   # runs every 6 hours
